@@ -4,9 +4,15 @@ Web scraping is a way to extract specific data from websites for use in applicat
 
 ### Psuedocode Roadmap
 
-// I visit www.burton.com
+// I visit https://www.burton.com/us/en/c/womens-snowboards
 
-// I click on the button #order-button
+// My goal is to display all product names of women's snowboards available
+
+// I select all elements with class of 'product-names`
+
+// I filter by also including 'Women's' and 'Snowboard'
+
+// I display product names in a list in Node
 
 
 ### Resources
